@@ -1,2 +1,2 @@
-FROM busybox
-RUN echo "hellow world"
+FROM ubuntu:latest
+RUN echo "Ubuntu O.S"
